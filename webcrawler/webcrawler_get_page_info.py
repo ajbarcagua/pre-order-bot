@@ -1,6 +1,13 @@
-def print_hi(name):
-    print(f'Hello, {name}')
+import selenium
+
+
+def get_page_info():
+    pass
+
+
+def get_webpage_name():
+    pass
 
 
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    get_webpage_name()
